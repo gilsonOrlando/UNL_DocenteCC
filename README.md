@@ -1,27 +1,20 @@
-## Welcome to GitHub Pages
+## Bienvenido a Repositorio de Pácticas UNL (Estadística Analítica con R)
 
-You can use the [editor on GitHub](https://github.com/mycnmaster/UNLestadisticaAnalitica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ud. puede usar a prevferencia el editor del repositorio [editor on GitHub](https://github.com/mycnmaster/UNLestadisticaAnalitica/edit/master/README.md) En cada año lectivo planteo mejorar la calidad del repositorio en base a ejercicios prácticosn con los estudiantes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Otra forma de utilizar son los archivos [Jekyll](https://jekyllrb.com/) tque podrás encontrat en el enlace enviado
 
-### Markdown
+### R
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Es un lenguaje de programación útil en la actualidad en la que vamos a enfocarnos en estudiar el funcionamiento y su funcionalidad.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# UNL
+## Facultad de Energía y los Recursos Naturales no Renovables.
+### Carrera en Computación.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- Cristian Ramiro Narváez Guillén
+- Docente
 
 [Link](url) and ![Image](src)
 ```
